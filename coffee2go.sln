@@ -17,8 +17,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Database", "1-Database", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Web", "2-Web", "{0FD4BDB0-DF45-11EB-B222-85B81F786019}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A464B671-1E71-4CF1-A608-961E0C84A6F9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coffee2go.Command", "src\coffee2go.Command\coffee2go.Command.csproj", "{00F241DD-1A1D-4B0D-82FA-1EF2FD9DBA13}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coffee2go.Query", "src\coffee2go.Query\coffee2go.Query.csproj", "{931CF926-6BCC-4CFB-9840-F4D8A3039E28}"
